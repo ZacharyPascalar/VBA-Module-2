@@ -10,6 +10,6 @@ In 2017, only TERP had a negative return. The rest were positive.
 In 2018, only DQ and RUN had a positive return. The rest were negative.
 ##Code
 [It took 1.0625 seconds to run the code for 2017.]
-(https://raw.githubusercontent.com/ZacharyPascalar/VBA-Module-2/main/VBA_Challenge_2017.png)
+https://github.com/ZacharyPascalar/VBA-Module-2/blob/main/VBA_Challenge_2017.png)
 [It took 0.83593 seconds to run the code for 2018.]
-(https://raw.githubusercontent.com/ZacharyPascalar/VBA-Module-2/main/VBA_Challenge_2018.png)
+(https://github.com/ZacharyPascalar/VBA-Module-2/blob/main/VBA_Challenge_2018.png)
